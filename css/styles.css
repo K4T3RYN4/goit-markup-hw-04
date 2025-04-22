@@ -184,6 +184,7 @@ a {
     flex-direction: column;
     gap: 48px;
     justify-content: space-between;
+    margin: 0 auto;
 }
 
 .hero-section {
